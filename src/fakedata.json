@@ -1,0 +1,38 @@
+{
+    "items": [
+      {
+        "name": "Нямушка",
+        "filling": "с фуа-гра",
+        "quantity": "10 порций",
+        "gift": "мышь в подарок",
+        "weight": "0,5",
+        "available": true,
+        "additionalData": {
+          "fillingDescription": "Печень утки разварная с артишоками."
+        }
+      },
+      {
+        "name": "Нямушка",
+        "filling": "с рыбой",
+        "quantity": "40 порций",
+        "gift": "2 мыши в подарок",
+        "weight": "2",
+        "available": true,
+        "additionalData": {
+          "fillingDescription": "Головы щучьи с чесноком да свежайшая сёмгушка."
+        }
+      },
+      {
+        "name": "Нямушка",
+        "filling": "с курой",
+        "quantity": "100 порций",
+        "gift": "5 мышей в подарок",
+        "weight": "5",
+        "additionalData": {
+          "about": "заказчик доволен",
+          "fillingDescription": "Филе из цыплят с трюфелями в бульоне."
+        },
+        "available": false
+      }
+    ]
+  }
